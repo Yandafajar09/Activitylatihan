@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Activitylatihan</string>
+    <string name="usianya_17_tahun">Usianya 17 tahun</string>
+    <string name="next">NEXT</string>
+    <string name="usia_yanda">Usia Yanda</string>
+    <string name="usia">Usia</string>
+    <string name="usia_yanda_saat_ini_yaitu_17_tahun">Usia Yanda saat Ini yaitu 17 tahun</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="sekolah">Sekolah</string>
+    <string name="saat_ini_yanda_sedang_menempuh_pendidikan_di_smkn_1_singkarak">Saat Ini Yanda Sedang Menempuh Pendidikan di Smkn 1 Singkarak</string>
+    <string name="alamat">Alamat</string>
+    <string name="tekan">Tekan</string>
+    <string name="nagari_sulit_air_kec_x_koto_diatas_kab_solok_prov_sumatera_barat">Nagari Sulit air,Kec.X koto Diatas,kab.Solok,Prov.Sumatera Barat.</string>
+    <string name="next2">Next</string>
+    <string name="untuk_saat_ini_yanda_sedang_menjabat_sebagai_duta_genre_kab_solok_tahun_2022">Untuk saat ini Yanda sedang menjabat sebagai DUTA GenRe Kab.Solok Tahun 2022</string>
+    <string name="nama_lengkap_dia_yaitu_jullyanda_fajar_pratama">Nama Lengkap dia Yaitu JULLYANDA FAJAR PRATAMA</string>
+    <string name="biasa_dianggil_yanda">Biasa dianggil yanda</string>
+    <string name="selanjutnya2">Selanjutnya</string>
+    <string name="pencet">Pencet</string>
+    <string name="jika_ingin_tahu_biodata_jullyanda_klik_tombol_di_bawah_ini">Jika ingin tahu biodata Jullyanda klik tombol di bawah ini</string>
+    <string name="biodata_jullyanda">Biodata Jullyanda</string>
+</resources>
